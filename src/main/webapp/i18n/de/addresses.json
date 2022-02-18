@@ -1,0 +1,40 @@
+{
+  "hermesvue1App": {
+    "addresses": {
+      "home": {
+        "title": "Addresses",
+        "refreshListLabel": "Liste aktualisieren",
+        "createLabel": "Addresses erstellen",
+        "createOrEditLabel": "Addresses erstellen oder bearbeiten",
+        "notFound": "Keine Addresses gefunden"
+      },
+      "created": "Addresses erstellt mit ID {{ param }}",
+      "updated": "Addresses aktualisiert mit ID {{ param }}",
+      "deleted": "Addresses gelöscht mit ID {{ param }}",
+      "delete": {
+        "question": "Soll Addresses {{ id }} wirklich dauerhaft gelöscht werden?"
+      },
+      "detail": {
+        "title": "Addresses"
+      },
+      "id": "ID",
+      "address": "Address",
+      "addressNo": "Address No",
+      "zipCode": "Zip Code",
+      "prosfLetter": "Prosf Letter",
+      "nameLetter": "Name Letter",
+      "letterClose": "Letter Close",
+      "firstLabel": "First Label",
+      "secondLabel": "Second Label",
+      "thirdLabel": "Third Label",
+      "fourthLabel": "Fourth Label",
+      "fifthLabel": "Fifth Label",
+      "favourite": "Favourite",
+      "country": "Country",
+      "kind": "Kind",
+      "region": "Region",
+      "company": "Company",
+      "citizen": "Citizen"
+    }
+  }
+}

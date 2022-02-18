@@ -1,0 +1,24 @@
+{
+  "hermesvue1App": {
+    "companyKinds": {
+      "home": {
+        "title": "Company Kinds",
+        "refreshListLabel": "Liste aktualisieren",
+        "createLabel": "Company Kinds erstellen",
+        "createOrEditLabel": "Company Kinds erstellen oder bearbeiten",
+        "notFound": "Keine Company Kinds gefunden"
+      },
+      "created": "Company Kinds erstellt mit ID {{ param }}",
+      "updated": "Company Kinds aktualisiert mit ID {{ param }}",
+      "deleted": "Company Kinds gelöscht mit ID {{ param }}",
+      "delete": {
+        "question": "Soll Company Kinds {{ id }} wirklich dauerhaft gelöscht werden?"
+      },
+      "detail": {
+        "title": "Company Kinds"
+      },
+      "id": "ID",
+      "name": "Name"
+    }
+  }
+}

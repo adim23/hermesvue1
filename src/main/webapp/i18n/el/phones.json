@@ -1,0 +1,29 @@
+{
+  "hermesvue1App": {
+    "phones": {
+      "home": {
+        "title": "Phones",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Δημιουργήστε ένα νέο Phones",
+        "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Phones",
+        "notFound": "No Phones found"
+      },
+      "created": "Ένα νέο Phones έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+      "updated": "Ένα Phones έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+      "deleted": "Ένα Phones έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+      "delete": {
+        "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Phones {{ id }};"
+      },
+      "detail": {
+        "title": "Phones"
+      },
+      "id": "ID",
+      "phone": "Phone",
+      "description": "Description",
+      "favourite": "Favourite",
+      "kind": "Kind",
+      "company": "Company",
+      "citizen": "Citizen"
+    }
+  }
+}

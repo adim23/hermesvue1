@@ -1,0 +1,24 @@
+{
+  "hermesvue1App": {
+    "origins": {
+      "home": {
+        "title": "Origins",
+        "refreshListLabel": "Actualiser la liste",
+        "createLabel": "Créer un nouveau Origins",
+        "createOrEditLabel": "Créer ou éditer un Origins",
+        "notFound": "Aucun Origins trouvé"
+      },
+      "created": "Un nouveau Origins a été créé avec l'identifiant {{ param }}",
+      "updated": "Le Origins avec l'identifiant {{ param }} a été mis à jour",
+      "deleted": "Le Origins avec l'identifiant {{ param }} a été supprimé",
+      "delete": {
+        "question": "Etes-vous certain de vouloir supprimer le Origins {{ id }} ?"
+      },
+      "detail": {
+        "title": "Origins"
+      },
+      "id": "ID",
+      "name": "Name"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "hermesvue1App": {
+    "maritalStatus": {
+      "home": {
+        "title": "Marital Statuses",
+        "refreshListLabel": "Liste aktualisieren",
+        "createLabel": "Marital Status erstellen",
+        "createOrEditLabel": "Marital Status erstellen oder bearbeiten",
+        "notFound": "Keine Marital Statuses gefunden"
+      },
+      "created": "Marital Status erstellt mit ID {{ param }}",
+      "updated": "Marital Status aktualisiert mit ID {{ param }}",
+      "deleted": "Marital Status gelöscht mit ID {{ param }}",
+      "delete": {
+        "question": "Soll Marital Status {{ id }} wirklich dauerhaft gelöscht werden?"
+      },
+      "detail": {
+        "title": "Marital Status"
+      },
+      "id": "ID",
+      "name": "Name"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "hermesvue1App": {
+    "companies": {
+      "home": {
+        "title": "Companies",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Δημιουργήστε ένα νέο Companies",
+        "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Companies",
+        "notFound": "No Companies found"
+      },
+      "created": "Ένα νέο Companies έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+      "updated": "Ένα Companies έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+      "deleted": "Ένα Companies έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+      "delete": {
+        "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Companies {{ id }};"
+      },
+      "detail": {
+        "title": "Companies"
+      },
+      "id": "ID",
+      "name": "Name",
+      "kind": "Kind",
+      "phones": "Phones",
+      "addresses": "Addresses"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "hermesvue1App": {
+    "citizens": {
+      "home": {
+        "title": "Citizens",
+        "refreshListLabel": "Liste aktualisieren",
+        "createLabel": "Citizens erstellen",
+        "createOrEditLabel": "Citizens erstellen oder bearbeiten",
+        "notFound": "Keine Citizens gefunden"
+      },
+      "created": "Citizens erstellt mit ID {{ param }}",
+      "updated": "Citizens aktualisiert mit ID {{ param }}",
+      "deleted": "Citizens gelöscht mit ID {{ param }}",
+      "delete": {
+        "question": "Soll Citizens {{ id }} wirklich dauerhaft gelöscht werden?"
+      },
+      "detail": {
+        "title": "Citizens"
+      },
+      "id": "ID",
+      "title": "Title",
+      "lastname": "Lastname",
+      "firstname": "Firstname",
+      "fathersName": "Fathers Name",
+      "comments": "Comments",
+      "birthDate": "Birth Date",
+      "giortazi": "Giortazi",
+      "male": "Male",
+      "meLetter": "Me Letter",
+      "meLabel": "Me Label",
+      "image": "Image",
+      "folder": "Folder",
+      "company": "Company",
+      "maritalStatus": "Marital Status",
+      "team": "Team",
+      "code": "Code",
+      "origin": "Origin",
+      "job": "Job",
+      "phones": "Phones",
+      "addresses": "Addresses",
+      "social": "Social",
+      "emails": "Emails",
+      "relations": "Relations"
+    }
+  }
+}

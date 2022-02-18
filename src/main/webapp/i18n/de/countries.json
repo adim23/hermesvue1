@@ -1,0 +1,27 @@
+{
+  "hermesvue1App": {
+    "countries": {
+      "home": {
+        "title": "Countries",
+        "refreshListLabel": "Liste aktualisieren",
+        "createLabel": "Countries erstellen",
+        "createOrEditLabel": "Countries erstellen oder bearbeiten",
+        "notFound": "Keine Countries gefunden"
+      },
+      "created": "Countries erstellt mit ID {{ param }}",
+      "updated": "Countries aktualisiert mit ID {{ param }}",
+      "deleted": "Countries gelöscht mit ID {{ param }}",
+      "delete": {
+        "question": "Soll Countries {{ id }} wirklich dauerhaft gelöscht werden?"
+      },
+      "detail": {
+        "title": "Countries"
+      },
+      "id": "ID",
+      "name": "Name",
+      "iso": "Iso",
+      "language": "Language",
+      "lang": "Lang"
+    }
+  }
+}

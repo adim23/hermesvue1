@@ -1,0 +1,31 @@
+{
+  "hermesvue1App": {
+    "citizensMeetings": {
+      "home": {
+        "title": "Citizens Meetings",
+        "refreshListLabel": "Liste aktualisieren",
+        "createLabel": "Citizens Meetings erstellen",
+        "createOrEditLabel": "Citizens Meetings erstellen oder bearbeiten",
+        "notFound": "Keine Citizens Meetings gefunden"
+      },
+      "created": "Citizens Meetings erstellt mit ID {{ param }}",
+      "updated": "Citizens Meetings aktualisiert mit ID {{ param }}",
+      "deleted": "Citizens Meetings gelöscht mit ID {{ param }}",
+      "delete": {
+        "question": "Soll Citizens Meetings {{ id }} wirklich dauerhaft gelöscht werden?"
+      },
+      "detail": {
+        "title": "Citizens Meetings"
+      },
+      "id": "ID",
+      "meetDate": "Meet Date",
+      "agenda": "Agenda",
+      "comments": "Comments",
+      "amount": "Amount",
+      "quantity": "Quantity",
+      "status": "Status",
+      "flag": "Flag",
+      "citizen": "Citizen"
+    }
+  }
+}

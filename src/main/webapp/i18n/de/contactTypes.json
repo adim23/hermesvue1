@@ -1,0 +1,24 @@
+{
+  "hermesvue1App": {
+    "contactTypes": {
+      "home": {
+        "title": "Contact Types",
+        "refreshListLabel": "Liste aktualisieren",
+        "createLabel": "Contact Types erstellen",
+        "createOrEditLabel": "Contact Types erstellen oder bearbeiten",
+        "notFound": "Keine Contact Types gefunden"
+      },
+      "created": "Contact Types erstellt mit ID {{ param }}",
+      "updated": "Contact Types aktualisiert mit ID {{ param }}",
+      "deleted": "Contact Types gelöscht mit ID {{ param }}",
+      "delete": {
+        "question": "Soll Contact Types {{ id }} wirklich dauerhaft gelöscht werden?"
+      },
+      "detail": {
+        "title": "Contact Types"
+      },
+      "id": "ID",
+      "name": "Name"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "hermesvue1App": {
+    "companyKinds": {
+      "home": {
+        "title": "CompanyKinds",
+        "refreshListLabel": "Actualiser la liste",
+        "createLabel": "Créer un nouveau Company Kinds",
+        "createOrEditLabel": "Créer ou éditer un Company Kinds",
+        "notFound": "Aucun Company Kinds trouvé"
+      },
+      "created": "Un nouveau Company Kinds a été créé avec l'identifiant {{ param }}",
+      "updated": "Le Company Kinds avec l'identifiant {{ param }} a été mis à jour",
+      "deleted": "Le Company Kinds avec l'identifiant {{ param }} a été supprimé",
+      "delete": {
+        "question": "Etes-vous certain de vouloir supprimer le Company Kinds {{ id }} ?"
+      },
+      "detail": {
+        "title": "Company Kinds"
+      },
+      "id": "ID",
+      "name": "Name"
+    }
+  }
+}

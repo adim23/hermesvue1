@@ -1,0 +1,26 @@
+{
+  "hermesvue1App": {
+    "citizenFolders": {
+      "home": {
+        "title": "Citizen Folders",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Δημιουργήστε ένα νέο Citizen Folders",
+        "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Citizen Folders",
+        "notFound": "No Citizen Folders found"
+      },
+      "created": "Ένα νέο Citizen Folders έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+      "updated": "Ένα Citizen Folders έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+      "deleted": "Ένα Citizen Folders έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+      "delete": {
+        "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Citizen Folders {{ id }};"
+      },
+      "detail": {
+        "title": "Citizen Folders"
+      },
+      "id": "ID",
+      "name": "Name",
+      "description": "Description",
+      "special": "Special"
+    }
+  }
+}

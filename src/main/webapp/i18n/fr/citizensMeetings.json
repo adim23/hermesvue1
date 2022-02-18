@@ -1,0 +1,31 @@
+{
+  "hermesvue1App": {
+    "citizensMeetings": {
+      "home": {
+        "title": "CitizensMeetings",
+        "refreshListLabel": "Actualiser la liste",
+        "createLabel": "Créer un nouveau Citizens Meetings",
+        "createOrEditLabel": "Créer ou éditer un Citizens Meetings",
+        "notFound": "Aucun Citizens Meetings trouvé"
+      },
+      "created": "Un nouveau Citizens Meetings a été créé avec l'identifiant {{ param }}",
+      "updated": "Le Citizens Meetings avec l'identifiant {{ param }} a été mis à jour",
+      "deleted": "Le Citizens Meetings avec l'identifiant {{ param }} a été supprimé",
+      "delete": {
+        "question": "Etes-vous certain de vouloir supprimer le Citizens Meetings {{ id }} ?"
+      },
+      "detail": {
+        "title": "Citizens Meetings"
+      },
+      "id": "ID",
+      "meetDate": "Meet Date",
+      "agenda": "Agenda",
+      "comments": "Comments",
+      "amount": "Amount",
+      "quantity": "Quantity",
+      "status": "Status",
+      "flag": "Flag",
+      "citizen": "Citizen"
+    }
+  }
+}

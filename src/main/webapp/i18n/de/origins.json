@@ -1,0 +1,24 @@
+{
+  "hermesvue1App": {
+    "origins": {
+      "home": {
+        "title": "Origins",
+        "refreshListLabel": "Liste aktualisieren",
+        "createLabel": "Origins erstellen",
+        "createOrEditLabel": "Origins erstellen oder bearbeiten",
+        "notFound": "Keine Origins gefunden"
+      },
+      "created": "Origins erstellt mit ID {{ param }}",
+      "updated": "Origins aktualisiert mit ID {{ param }}",
+      "deleted": "Origins gelöscht mit ID {{ param }}",
+      "delete": {
+        "question": "Soll Origins {{ id }} wirklich dauerhaft gelöscht werden?"
+      },
+      "detail": {
+        "title": "Origins"
+      },
+      "id": "ID",
+      "name": "Name"
+    }
+  }
+}

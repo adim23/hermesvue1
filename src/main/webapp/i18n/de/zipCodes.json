@@ -1,0 +1,30 @@
+{
+  "hermesvue1App": {
+    "zipCodes": {
+      "home": {
+        "title": "Zip Codes",
+        "refreshListLabel": "Liste aktualisieren",
+        "createLabel": "Zip Codes erstellen",
+        "createOrEditLabel": "Zip Codes erstellen oder bearbeiten",
+        "notFound": "Keine Zip Codes gefunden"
+      },
+      "created": "Zip Codes erstellt mit ID {{ param }}",
+      "updated": "Zip Codes aktualisiert mit ID {{ param }}",
+      "deleted": "Zip Codes gelöscht mit ID {{ param }}",
+      "delete": {
+        "question": "Soll Zip Codes {{ id }} wirklich dauerhaft gelöscht werden?"
+      },
+      "detail": {
+        "title": "Zip Codes"
+      },
+      "id": "ID",
+      "street": "Street",
+      "area": "Area",
+      "fromNumber": "From Number",
+      "toNumber": "To Number",
+      "country": "Country",
+      "region": "Region",
+      "city": "City"
+    }
+  }
+}

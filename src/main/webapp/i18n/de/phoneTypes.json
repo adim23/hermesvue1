@@ -1,0 +1,24 @@
+{
+  "hermesvue1App": {
+    "phoneTypes": {
+      "home": {
+        "title": "Phone Types",
+        "refreshListLabel": "Liste aktualisieren",
+        "createLabel": "Phone Types erstellen",
+        "createOrEditLabel": "Phone Types erstellen oder bearbeiten",
+        "notFound": "Keine Phone Types gefunden"
+      },
+      "created": "Phone Types erstellt mit ID {{ param }}",
+      "updated": "Phone Types aktualisiert mit ID {{ param }}",
+      "deleted": "Phone Types gelöscht mit ID {{ param }}",
+      "delete": {
+        "question": "Soll Phone Types {{ id }} wirklich dauerhaft gelöscht werden?"
+      },
+      "detail": {
+        "title": "Phone Types"
+      },
+      "id": "ID",
+      "name": "Name"
+    }
+  }
+}

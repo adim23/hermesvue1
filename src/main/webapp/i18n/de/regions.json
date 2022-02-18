@@ -1,0 +1,25 @@
+{
+  "hermesvue1App": {
+    "regions": {
+      "home": {
+        "title": "Regions",
+        "refreshListLabel": "Liste aktualisieren",
+        "createLabel": "Regions erstellen",
+        "createOrEditLabel": "Regions erstellen oder bearbeiten",
+        "notFound": "Keine Regions gefunden"
+      },
+      "created": "Regions erstellt mit ID {{ param }}",
+      "updated": "Regions aktualisiert mit ID {{ param }}",
+      "deleted": "Regions gelöscht mit ID {{ param }}",
+      "delete": {
+        "question": "Soll Regions {{ id }} wirklich dauerhaft gelöscht werden?"
+      },
+      "detail": {
+        "title": "Regions"
+      },
+      "id": "ID",
+      "name": "Name",
+      "country": "Country"
+    }
+  }
+}

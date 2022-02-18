@@ -1,0 +1,24 @@
+{
+  "hermesvue1App": {
+    "teams": {
+      "home": {
+        "title": "Teams",
+        "refreshListLabel": "Liste aktualisieren",
+        "createLabel": "Teams erstellen",
+        "createOrEditLabel": "Teams erstellen oder bearbeiten",
+        "notFound": "Keine Teams gefunden"
+      },
+      "created": "Teams erstellt mit ID {{ param }}",
+      "updated": "Teams aktualisiert mit ID {{ param }}",
+      "deleted": "Teams gelöscht mit ID {{ param }}",
+      "delete": {
+        "question": "Soll Teams {{ id }} wirklich dauerhaft gelöscht werden?"
+      },
+      "detail": {
+        "title": "Teams"
+      },
+      "id": "ID",
+      "name": "Name"
+    }
+  }
+}

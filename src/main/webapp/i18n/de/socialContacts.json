@@ -1,0 +1,28 @@
+{
+  "hermesvue1App": {
+    "socialContacts": {
+      "home": {
+        "title": "Social Contacts",
+        "refreshListLabel": "Liste aktualisieren",
+        "createLabel": "Social Contacts erstellen",
+        "createOrEditLabel": "Social Contacts erstellen oder bearbeiten",
+        "notFound": "Keine Social Contacts gefunden"
+      },
+      "created": "Social Contacts erstellt mit ID {{ param }}",
+      "updated": "Social Contacts aktualisiert mit ID {{ param }}",
+      "deleted": "Social Contacts gelöscht mit ID {{ param }}",
+      "delete": {
+        "question": "Soll Social Contacts {{ id }} wirklich dauerhaft gelöscht werden?"
+      },
+      "detail": {
+        "title": "Social Contacts"
+      },
+      "id": "ID",
+      "name": "Name",
+      "favored": "Favored",
+      "social": "Social",
+      "kind": "Kind",
+      "citizen": "Citizen"
+    }
+  }
+}
