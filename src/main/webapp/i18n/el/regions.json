@@ -1,0 +1,25 @@
+{
+  "hermesvue1App": {
+    "regions": {
+      "home": {
+        "title": "Regions",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Δημιουργήστε ένα νέο Regions",
+        "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Regions",
+        "notFound": "No Regions found"
+      },
+      "created": "Ένα νέο Regions έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+      "updated": "Ένα Regions έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+      "deleted": "Ένα Regions έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+      "delete": {
+        "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Regions {{ id }};"
+      },
+      "detail": {
+        "title": "Regions"
+      },
+      "id": "ID",
+      "name": "Name",
+      "country": "Country"
+    }
+  }
+}

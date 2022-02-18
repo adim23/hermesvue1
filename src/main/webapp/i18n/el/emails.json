@@ -1,0 +1,28 @@
+{
+  "hermesvue1App": {
+    "emails": {
+      "home": {
+        "title": "Emails",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Δημιουργήστε ένα νέο Emails",
+        "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Emails",
+        "notFound": "No Emails found"
+      },
+      "created": "Ένα νέο Emails έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+      "updated": "Ένα Emails έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+      "deleted": "Ένα Emails έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+      "delete": {
+        "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Emails {{ id }};"
+      },
+      "detail": {
+        "title": "Emails"
+      },
+      "id": "ID",
+      "email": "Email",
+      "description": "Description",
+      "favourite": "Favourite",
+      "kind": "Kind",
+      "citizen": "Citizen"
+    }
+  }
+}

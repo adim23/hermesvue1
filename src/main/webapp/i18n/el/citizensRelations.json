@@ -1,0 +1,25 @@
+{
+  "hermesvue1App": {
+    "citizensRelations": {
+      "home": {
+        "title": "Citizens Relations",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Δημιουργήστε ένα νέο Citizens Relations",
+        "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Citizens Relations",
+        "notFound": "No Citizens Relations found"
+      },
+      "created": "Ένα νέο Citizens Relations έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+      "updated": "Ένα Citizens Relations έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+      "deleted": "Ένα Citizens Relations έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+      "delete": {
+        "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Citizens Relations {{ id }};"
+      },
+      "detail": {
+        "title": "Citizens Relations"
+      },
+      "id": "ID",
+      "name": "Name",
+      "citizen": "Citizen"
+    }
+  }
+}

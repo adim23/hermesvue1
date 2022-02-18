@@ -1,0 +1,27 @@
+{
+  "hermesvue1App": {
+    "companies": {
+      "home": {
+        "title": "Companies",
+        "refreshListLabel": "Liste aktualisieren",
+        "createLabel": "Companies erstellen",
+        "createOrEditLabel": "Companies erstellen oder bearbeiten",
+        "notFound": "Keine Companies gefunden"
+      },
+      "created": "Companies erstellt mit ID {{ param }}",
+      "updated": "Companies aktualisiert mit ID {{ param }}",
+      "deleted": "Companies gelöscht mit ID {{ param }}",
+      "delete": {
+        "question": "Soll Companies {{ id }} wirklich dauerhaft gelöscht werden?"
+      },
+      "detail": {
+        "title": "Companies"
+      },
+      "id": "ID",
+      "name": "Name",
+      "kind": "Kind",
+      "phones": "Phones",
+      "addresses": "Addresses"
+    }
+  }
+}

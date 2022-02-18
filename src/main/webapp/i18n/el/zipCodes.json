@@ -1,0 +1,30 @@
+{
+  "hermesvue1App": {
+    "zipCodes": {
+      "home": {
+        "title": "Zip Codes",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Δημιουργήστε ένα νέο Zip Codes",
+        "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Zip Codes",
+        "notFound": "No Zip Codes found"
+      },
+      "created": "Ένα νέο Zip Codes έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+      "updated": "Ένα Zip Codes έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+      "deleted": "Ένα Zip Codes έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+      "delete": {
+        "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Zip Codes {{ id }};"
+      },
+      "detail": {
+        "title": "Zip Codes"
+      },
+      "id": "ID",
+      "street": "Street",
+      "area": "Area",
+      "fromNumber": "From Number",
+      "toNumber": "To Number",
+      "country": "Country",
+      "region": "Region",
+      "city": "City"
+    }
+  }
+}

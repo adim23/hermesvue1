@@ -1,0 +1,24 @@
+{
+  "hermesvue1App": {
+    "companyKinds": {
+      "home": {
+        "title": "Company Kinds",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Δημιουργήστε ένα νέο Company Kinds",
+        "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Company Kinds",
+        "notFound": "No Company Kinds found"
+      },
+      "created": "Ένα νέο Company Kinds έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+      "updated": "Ένα Company Kinds έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+      "deleted": "Ένα Company Kinds έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+      "delete": {
+        "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Company Kinds {{ id }};"
+      },
+      "detail": {
+        "title": "Company Kinds"
+      },
+      "id": "ID",
+      "name": "Name"
+    }
+  }
+}

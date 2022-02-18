@@ -1,0 +1,28 @@
+{
+  "hermesvue1App": {
+    "emails": {
+      "home": {
+        "title": "Emails",
+        "refreshListLabel": "Liste aktualisieren",
+        "createLabel": "Emails erstellen",
+        "createOrEditLabel": "Emails erstellen oder bearbeiten",
+        "notFound": "Keine Emails gefunden"
+      },
+      "created": "Emails erstellt mit ID {{ param }}",
+      "updated": "Emails aktualisiert mit ID {{ param }}",
+      "deleted": "Emails gelöscht mit ID {{ param }}",
+      "delete": {
+        "question": "Soll Emails {{ id }} wirklich dauerhaft gelöscht werden?"
+      },
+      "detail": {
+        "title": "Emails"
+      },
+      "id": "ID",
+      "email": "Email",
+      "description": "Description",
+      "favourite": "Favourite",
+      "kind": "Kind",
+      "citizen": "Citizen"
+    }
+  }
+}

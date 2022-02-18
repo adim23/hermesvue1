@@ -1,0 +1,27 @@
+{
+  "hermesvue1App": {
+    "countries": {
+      "home": {
+        "title": "Countries",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Δημιουργήστε ένα νέο Countries",
+        "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Countries",
+        "notFound": "No Countries found"
+      },
+      "created": "Ένα νέο Countries έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+      "updated": "Ένα Countries έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+      "deleted": "Ένα Countries έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+      "delete": {
+        "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Countries {{ id }};"
+      },
+      "detail": {
+        "title": "Countries"
+      },
+      "id": "ID",
+      "name": "Name",
+      "iso": "Iso",
+      "language": "Language",
+      "lang": "Lang"
+    }
+  }
+}

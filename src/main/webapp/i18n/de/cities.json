@@ -1,0 +1,38 @@
+{
+  "hermesvue1App": {
+    "cities": {
+      "home": {
+        "title": "Cities",
+        "refreshListLabel": "Liste aktualisieren",
+        "createLabel": "Cities erstellen",
+        "createOrEditLabel": "Cities erstellen oder bearbeiten",
+        "notFound": "Keine Cities gefunden"
+      },
+      "created": "Cities erstellt mit ID {{ param }}",
+      "updated": "Cities aktualisiert mit ID {{ param }}",
+      "deleted": "Cities gelöscht mit ID {{ param }}",
+      "delete": {
+        "question": "Soll Cities {{ id }} wirklich dauerhaft gelöscht werden?"
+      },
+      "detail": {
+        "title": "Cities"
+      },
+      "id": "ID",
+      "name": "Name",
+      "president": "President",
+      "presidentsPhone": "Presidents Phone",
+      "secretary": "Secretary",
+      "secretarysPhone": "Secretarys Phone",
+      "police": "Police",
+      "policesPhone": "Polices Phone",
+      "doctor": "Doctor",
+      "doctorsPhone": "Doctors Phone",
+      "teacher": "Teacher",
+      "teachersPhone": "Teachers Phone",
+      "priest": "Priest",
+      "priestsPhone": "Priests Phone",
+      "country": "Country",
+      "region": "Region"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "hermesvue1App": {
+    "socialContacts": {
+      "home": {
+        "title": "SocialContacts",
+        "refreshListLabel": "Actualiser la liste",
+        "createLabel": "Créer un nouveau Social Contacts",
+        "createOrEditLabel": "Créer ou éditer un Social Contacts",
+        "notFound": "Aucun Social Contacts trouvé"
+      },
+      "created": "Un nouveau Social Contacts a été créé avec l'identifiant {{ param }}",
+      "updated": "Le Social Contacts avec l'identifiant {{ param }} a été mis à jour",
+      "deleted": "Le Social Contacts avec l'identifiant {{ param }} a été supprimé",
+      "delete": {
+        "question": "Etes-vous certain de vouloir supprimer le Social Contacts {{ id }} ?"
+      },
+      "detail": {
+        "title": "Social Contacts"
+      },
+      "id": "ID",
+      "name": "Name",
+      "favored": "Favored",
+      "social": "Social",
+      "kind": "Kind",
+      "citizen": "Citizen"
+    }
+  }
+}

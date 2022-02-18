@@ -48,6 +48,35 @@ public class CacheConfiguration {
             createCache(cm, gr.adr.hermes.domain.User.class.getName());
             createCache(cm, gr.adr.hermes.domain.Authority.class.getName());
             createCache(cm, gr.adr.hermes.domain.User.class.getName() + ".authorities");
+            createCache(cm, gr.adr.hermes.domain.Jobs.class.getName());
+            createCache(cm, gr.adr.hermes.domain.Countries.class.getName());
+            createCache(cm, gr.adr.hermes.domain.Regions.class.getName());
+            createCache(cm, gr.adr.hermes.domain.Cities.class.getName());
+            createCache(cm, gr.adr.hermes.domain.ZipCodes.class.getName());
+            createCache(cm, gr.adr.hermes.domain.Addresses.class.getName());
+            createCache(cm, gr.adr.hermes.domain.Phones.class.getName());
+            createCache(cm, gr.adr.hermes.domain.Emails.class.getName());
+            createCache(cm, gr.adr.hermes.domain.PhoneTypes.class.getName());
+            createCache(cm, gr.adr.hermes.domain.ContactTypes.class.getName());
+            createCache(cm, gr.adr.hermes.domain.SocialKinds.class.getName());
+            createCache(cm, gr.adr.hermes.domain.SocialContacts.class.getName());
+            createCache(cm, gr.adr.hermes.domain.CompanyKinds.class.getName());
+            createCache(cm, gr.adr.hermes.domain.Companies.class.getName());
+            createCache(cm, gr.adr.hermes.domain.Companies.class.getName() + ".phones");
+            createCache(cm, gr.adr.hermes.domain.Companies.class.getName() + ".addresses");
+            createCache(cm, gr.adr.hermes.domain.Codes.class.getName());
+            createCache(cm, gr.adr.hermes.domain.Teams.class.getName());
+            createCache(cm, gr.adr.hermes.domain.Origins.class.getName());
+            createCache(cm, gr.adr.hermes.domain.CitizenFolders.class.getName());
+            createCache(cm, gr.adr.hermes.domain.MaritalStatus.class.getName());
+            createCache(cm, gr.adr.hermes.domain.Citizens.class.getName());
+            createCache(cm, gr.adr.hermes.domain.Citizens.class.getName() + ".phones");
+            createCache(cm, gr.adr.hermes.domain.Citizens.class.getName() + ".addresses");
+            createCache(cm, gr.adr.hermes.domain.Citizens.class.getName() + ".socials");
+            createCache(cm, gr.adr.hermes.domain.Citizens.class.getName() + ".emails");
+            createCache(cm, gr.adr.hermes.domain.Citizens.class.getName() + ".relations");
+            createCache(cm, gr.adr.hermes.domain.CitizensRelations.class.getName());
+            createCache(cm, gr.adr.hermes.domain.CitizensMeetings.class.getName());
             // jhipster-needle-ehcache-add-entry
         };
     }

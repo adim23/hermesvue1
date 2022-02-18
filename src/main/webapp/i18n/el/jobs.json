@@ -1,0 +1,25 @@
+{
+  "hermesvue1App": {
+    "jobs": {
+      "home": {
+        "title": "Jobs",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Δημιουργήστε ένα νέο Jobs",
+        "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Jobs",
+        "notFound": "No Jobs found"
+      },
+      "created": "Ένα νέο Jobs έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+      "updated": "Ένα Jobs έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+      "deleted": "Ένα Jobs έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+      "delete": {
+        "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Jobs {{ id }};"
+      },
+      "detail": {
+        "title": "Jobs"
+      },
+      "id": "ID",
+      "name": "Name",
+      "description": "Description"
+    }
+  }
+}

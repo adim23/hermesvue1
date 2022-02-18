@@ -1,0 +1,27 @@
+{
+  "hermesvue1App": {
+    "companies": {
+      "home": {
+        "title": "Companies",
+        "refreshListLabel": "Actualiser la liste",
+        "createLabel": "Créer un nouveau Companies",
+        "createOrEditLabel": "Créer ou éditer un Companies",
+        "notFound": "Aucun Companies trouvé"
+      },
+      "created": "Un nouveau Companies a été créé avec l'identifiant {{ param }}",
+      "updated": "Le Companies avec l'identifiant {{ param }} a été mis à jour",
+      "deleted": "Le Companies avec l'identifiant {{ param }} a été supprimé",
+      "delete": {
+        "question": "Etes-vous certain de vouloir supprimer le Companies {{ id }} ?"
+      },
+      "detail": {
+        "title": "Companies"
+      },
+      "id": "ID",
+      "name": "Name",
+      "kind": "Kind",
+      "phones": "Phones",
+      "addresses": "Addresses"
+    }
+  }
+}

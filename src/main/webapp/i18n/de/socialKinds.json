@@ -1,0 +1,26 @@
+{
+  "hermesvue1App": {
+    "socialKinds": {
+      "home": {
+        "title": "Social Kinds",
+        "refreshListLabel": "Liste aktualisieren",
+        "createLabel": "Social Kinds erstellen",
+        "createOrEditLabel": "Social Kinds erstellen oder bearbeiten",
+        "notFound": "Keine Social Kinds gefunden"
+      },
+      "created": "Social Kinds erstellt mit ID {{ param }}",
+      "updated": "Social Kinds aktualisiert mit ID {{ param }}",
+      "deleted": "Social Kinds gelöscht mit ID {{ param }}",
+      "delete": {
+        "question": "Soll Social Kinds {{ id }} wirklich dauerhaft gelöscht werden?"
+      },
+      "detail": {
+        "title": "Social Kinds"
+      },
+      "id": "ID",
+      "code": "Code",
+      "name": "Name",
+      "call": "Call"
+    }
+  }
+}

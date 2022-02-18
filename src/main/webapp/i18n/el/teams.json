@@ -1,0 +1,24 @@
+{
+  "hermesvue1App": {
+    "teams": {
+      "home": {
+        "title": "Teams",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Δημιουργήστε ένα νέο Teams",
+        "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Teams",
+        "notFound": "No Teams found"
+      },
+      "created": "Ένα νέο Teams έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+      "updated": "Ένα Teams έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+      "deleted": "Ένα Teams έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+      "delete": {
+        "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Teams {{ id }};"
+      },
+      "detail": {
+        "title": "Teams"
+      },
+      "id": "ID",
+      "name": "Name"
+    }
+  }
+}

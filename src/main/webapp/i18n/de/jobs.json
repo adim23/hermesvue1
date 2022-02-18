@@ -1,0 +1,25 @@
+{
+  "hermesvue1App": {
+    "jobs": {
+      "home": {
+        "title": "Jobs",
+        "refreshListLabel": "Liste aktualisieren",
+        "createLabel": "Jobs erstellen",
+        "createOrEditLabel": "Jobs erstellen oder bearbeiten",
+        "notFound": "Keine Jobs gefunden"
+      },
+      "created": "Jobs erstellt mit ID {{ param }}",
+      "updated": "Jobs aktualisiert mit ID {{ param }}",
+      "deleted": "Jobs gelöscht mit ID {{ param }}",
+      "delete": {
+        "question": "Soll Jobs {{ id }} wirklich dauerhaft gelöscht werden?"
+      },
+      "detail": {
+        "title": "Jobs"
+      },
+      "id": "ID",
+      "name": "Name",
+      "description": "Description"
+    }
+  }
+}

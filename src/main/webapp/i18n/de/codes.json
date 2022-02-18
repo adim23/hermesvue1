@@ -1,0 +1,24 @@
+{
+  "hermesvue1App": {
+    "codes": {
+      "home": {
+        "title": "Codes",
+        "refreshListLabel": "Liste aktualisieren",
+        "createLabel": "Codes erstellen",
+        "createOrEditLabel": "Codes erstellen oder bearbeiten",
+        "notFound": "Keine Codes gefunden"
+      },
+      "created": "Codes erstellt mit ID {{ param }}",
+      "updated": "Codes aktualisiert mit ID {{ param }}",
+      "deleted": "Codes gelöscht mit ID {{ param }}",
+      "delete": {
+        "question": "Soll Codes {{ id }} wirklich dauerhaft gelöscht werden?"
+      },
+      "detail": {
+        "title": "Codes"
+      },
+      "id": "ID",
+      "name": "Name"
+    }
+  }
+}

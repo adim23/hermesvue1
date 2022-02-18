@@ -1,0 +1,24 @@
+{
+  "hermesvue1App": {
+    "maritalStatus": {
+      "home": {
+        "title": "Marital Statuses",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Δημιουργήστε ένα νέο Marital Status",
+        "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Marital Status",
+        "notFound": "No Marital Statuses found"
+      },
+      "created": "Ένα νέο Marital Status έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+      "updated": "Ένα Marital Status έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+      "deleted": "Ένα Marital Status έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+      "delete": {
+        "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Marital Status {{ id }};"
+      },
+      "detail": {
+        "title": "Marital Status"
+      },
+      "id": "ID",
+      "name": "Name"
+    }
+  }
+}
